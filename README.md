@@ -12,5 +12,6 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Demo
+![demo](https://github.com/samratjha96/floating-images-gallery/blob/main/demo.gif?raw=true)
 
